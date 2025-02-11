@@ -41,6 +41,10 @@ The game window will open!
 ## 📷 Screenshots
 (Coming)
 
+## 🚀 Future Improvements:
+- Improving game logic to detect all matches correctly.
+- Enhancing the win condition to ensure a full game experience.
+
 ## 📩 Contact
 For more about me, check out my **GitHub Profile README**:  
 🔗 [github.com/belladasilva](https://github.com/belladasilva)
